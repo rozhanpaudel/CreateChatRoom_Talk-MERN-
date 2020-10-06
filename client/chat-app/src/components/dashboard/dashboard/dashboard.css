@@ -1,0 +1,8 @@
+.dashboard_background {
+  background: #0062e6;
+  height: 100vh;
+  background: linear-gradient(to right, #0062e6, #33aeff);
+}
+.custom_card_style {
+  border-radius: 10px;
+}

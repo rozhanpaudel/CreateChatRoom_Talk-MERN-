@@ -1,0 +1,25 @@
+.chatgroup__background {
+  background: #007bff;
+  height: 100vh;
+  background: linear-gradient(to right, #0062e6, #33aeff);
+}
+.custom__card {
+  height: 200px;
+  width: 200px;
+}
+
+.group__chat {
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  background-color: skyblue;
+  height: 5em;
+  width: 5em;
+  color: white;
+  border: 1px solid white;
+  margin-bottom: 3px;
+}
+.group__items {
+  display: flex;
+  justify-content: space-around;
+}

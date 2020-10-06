@@ -1,0 +1,17 @@
+.navbar {
+  box-shadow: 0 8px 6px -6px white !important;
+}
+.dropdown_profile {
+  margin-right: 5% !important;
+}
+.navbar_dropdown_size {
+  width: 85px;
+}
+#logout_onhover {
+  color: red;
+  cursor: pointer;
+}
+#logout_onhover:hover {
+  background-color: #eee;
+  transition: all 0.7s;
+}

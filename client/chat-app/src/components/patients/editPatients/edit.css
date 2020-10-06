@@ -1,0 +1,12 @@
+.patientEdit_success {
+  background: #0062e6;
+  height: 100vh;
+  background: linear-gradient(to right, #0062e6, #33aeff);
+  background-repeat: repeat;
+}
+.previous_vitals_card {
+  position: relative;
+
+  padding-top: 10px;
+  left: 40%;
+}

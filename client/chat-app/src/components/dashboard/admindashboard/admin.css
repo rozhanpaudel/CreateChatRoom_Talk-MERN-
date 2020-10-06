@@ -1,0 +1,7 @@
+.adminpanel {
+  color: black;
+  height: 100vh;
+  background-color: white;
+  width: 70%;
+  overflow-y: auto;
+}

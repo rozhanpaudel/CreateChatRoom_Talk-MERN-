@@ -1,0 +1,11 @@
+.searchuser__list {
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  border: 1px solid black;
+}
+.searchuser__list:hover {
+  color: white !important;
+  font-weight: 900;
+  background-color: #007bff !important;
+  transition: 1s;
+}
